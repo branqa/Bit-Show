@@ -1,6 +1,7 @@
 # Bit-Show
 Web app shows information to the users about popular TV shows.
 
+Demo: [Bit-Show](https://branqa.github.io/Bit-Show/)
 
 ### Stack:
 
